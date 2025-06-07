@@ -5,8 +5,8 @@
 
 | شماره | عنوان فصل | لینک فایل |
 |------|-----------|-----------|
-| 1 | [معرفی](./Chapters/Introduction.md) |
-| 2 | [کد تمیز](./chapters/02-clean-code.md) |
+| 1 | [معرفی](./Chapters/مقدمه.md) |
+| 2 | [کد تمیز](./Chapters/01-کد-تمیز.md) |
 | 3 | [نام‌گذاری](./chapters/03-meaningful-names.md) |
 | 4 | [توابع](./chapters/04-functions.md) |
 | 5 | [نظرات](./chapters/05-comments.md) |
